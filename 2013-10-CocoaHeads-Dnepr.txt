@@ -1,0 +1,8 @@
+Додатко Александр.
+Яблочник трёхлетней выдержки.
+
+Не умеет писать код без coding style, Unit тестов и Continuous Integration.
+
+Любит программировать на Objective-C++ и бесплатно ездить по IT конференциям.
+Не любит AppCode, CocoaPods, AFNetworking и скобки в стиле Java.
+
