@@ -1,0 +1,10 @@
+Alexander is an active participant of the ukrainian iOS developer community. He was a speaker at @ua_mobile, mobiledays, #iosdevorgua and "ADC SpB" conferences. Some of his pull requests have been accepted by projects like fmdb, iOS-Universal-Framework, CLCascade, RBFilePreviewer. Alexander has been working with mobile devices since 2008. He started as a junior foreinsic specialist. During the last 2 years Alexander has been working with iOS platform. At the moment he is a software developer and a build master of mobile solutions at Sitecore. Alexander works at building products on top of RubyMotion and "Sitecore mobile SDK" ( https://github.com/Sitecore/sitecore-mobile-sdk ).
+================
+
+
+The RubyMotion platform is getting more and more popular these days. The internet is full of success stories and testimonials. Still, there are some obstacles not mentioned in buzzwords and press releases. In this talk I'm going to reveal those and describe the issues my team has encountered while migrating from Objective-C to RubyMotion.
+===============
+
+
+The talk is for those Objective-C++ developers who have not tried it yet and still doubt whether RubyMotion is worth their efforts. Attending this talk will give you a better overview of what problems RubyMotion won't solve for you and what RubyMotion is really good for. Ruby developers will get to know a bit of Objective-C world and gain a better understanding of the platform. There will be a bit of criticism of RubyMotion. So, welcome RubyMotion fans. It's going to be a hot and interesting dispute.
+==============
