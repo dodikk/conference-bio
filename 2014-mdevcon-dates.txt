@@ -1,0 +1,6 @@
+Time is everywhere. It is true for the software development world too. Date and time processing API are used for showing latest news, scheduling events to the calendar, logging, etc. To say nothing about timers and UIKit animations.
+Still, it's really hard to process it correctly due to timezones and cultural diversity.
+
+I'm going to tell how to receive dates from the network and use them in your applications. The speech will also include some details on how to use the power of CocoaTouch date time API in your SQLite queries.
+
+

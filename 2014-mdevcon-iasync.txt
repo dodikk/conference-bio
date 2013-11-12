@@ -1,0 +1,7 @@
+All iOS developers want to make cool, fast and responsive applications. That's why asynchronous programming is widely used for this platform.
+
+I'm going to talk about callback hell and give a quick overview of tools solving it such as AFNetworking, ReactiveCocoa. 
+
+Finally, I'll show how functional programming helps managing the complexity of asynchronous programs. There will be a live demo of an application built with the help of iAsync library and functional programming approach.
+
+
