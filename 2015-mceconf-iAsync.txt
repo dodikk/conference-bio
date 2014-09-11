@@ -1,0 +1,8 @@
+All iOS developers want to make cool, fast and responsive applications. That's why asynchronous programming is widely used for this platform. However, writing asynchronous code is really hard. There are lots of different approaches and tools trying to simplify it. For example, key-value observing (KVO), grand central dispatch (GCD), Reactive Cocoa.
+Some tools are targeting specific areas such as networking (AFNetworking, RestKit).
+
+I'm going to talk about callback hell and give a quick overview of tools solving it.  Finally, I'll show a live demo on how functional programming helps managing the complexity of asynchronous programs. Unlike other FP presenters I shall not use Reactive Cocoa. Instead, I'll come up with an iAsyncLite library having a completely different approach. I find it more simple and convenient.  
+
+While Reactive Cocoa can be considered as a "better KVO", iAsyncLite can be considered as "a better dispatch_async() ".  It has both the simplicity of the "action + callback" approach and the power of operation dependency and flow management. 
+
+All these features will be covered and demonstrated in this talk.

@@ -1,0 +1,5 @@
+As the iOS community grows, code sharing becomes more and more important thing to discuss. 
+It is proved by the fact that apple has introduced iOS frameworks with Xcode 6.
+
+In this presentation I'll share my experience of being a library vendor. I'll give an overview of dependency management approaches. The talk will contain some criticism on some cocoa pods usage approaches and some ideas how library vendors and the community can improve the situation and solve those problems.
+At the end of the talk I'll share some best practices on project structure, dependency management, precompiled headers and forward declarations.

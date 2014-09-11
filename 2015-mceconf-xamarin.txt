@@ -1,0 +1,18 @@
+From Objective-C to Xamarin. First impressions.
+==========
+
+
+
+In this talk I'll describe my impressions of moving to the new toolchain having a solid Objective-C background and almost zero in C#. 
+I am going to share the experience I've gained so far. Here is my plan :  I will
+1. Describe the reasons why we started using Xamarin
+2. Compare Xamarin with native Objective-C
+3. Compare Xamarin with "Microsoft C#" (for desktop or server)
+4. Share some experience about cross-platform development pitfalls.
+5. Disprove the  "Xamarin causes lots of memory leaks" statement
+
+
+
+
+
+

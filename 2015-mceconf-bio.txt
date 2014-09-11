@@ -1,0 +1,12 @@
+I am a software developer and a build master of mobile solutions at Sitecore.  Beside building applications, I have experience of vendoring both OpenSource and corporate frameworks for iOS. Having three years of CocoaTouch experience, I switched to Monotouch (Xamarin iOS) this year and I'd really like to share this experience with the #mceconf community.
+
+I've been public speaker for already three years and I am an active participant of the ukrainian iOS developer community (including @CocoaHeadsUA) . I used to be a speaker at an international @iOSonRailConf conference. I have also participated in a number of conferences in Ukraine and Russia  such as @CocoaHeadsUA, @ua_mobile, mobiledays, #iosdevorgua and "ADC SpB". 
+
+
+
+https://twitter.com/dodikk88
+https://dl.dropboxusercontent.com/u/32947027/photos/CorporatePhoto.JPG
+
+@iOSonRailsConf 2013
+http://www.youtube.com/watch?v=3lbEkPoq5vs
+http://2013.iosonrailsconf.eu/speakers/alexander-dodatko
